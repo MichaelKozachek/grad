@@ -1,0 +1,10 @@
+﻿  angle.cpp
+C:\Users\Мишаня\Desktop\пбвт\grad\grad\angle.cpp(12,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  grad.cpp
+C:\Users\Мишаня\Desktop\пбвт\grad\grad\grad.cpp(16,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Мишаня\Desktop\пбвт\grad\grad\grad.cpp(17,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Мишаня\Desktop\пбвт\grad\grad\grad.cpp(18,45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+  radian.cpp
+  Создание кода...
+  grad.vcxproj -> C:\Users\Мишаня\Desktop\пбвт\grad\Debug\main.exe
